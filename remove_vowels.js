@@ -9,6 +9,8 @@ function disemvowel(str) {
      
 
     console.log(disemvowel("Shut up idiot"));
+    console.log(disemvowel("Cool, Calm and Collected"));
+    console.log(disemvowel("Shanta, Sajag aur samata bhari chitta ke saath"));
 
 
 
